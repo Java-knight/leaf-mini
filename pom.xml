@@ -15,27 +15,6 @@
     </modules>
 
     <description>Distributed ID Generate Service</description>
-    <developers>
-        <developer>
-            <id>zhangzhitong</id>
-            <name>zhangzhitong</name>
-            <email>zhitongzhang@outlook.com</email>
-        </developer>
-        <developer>
-            <id>zhanghan</id>
-            <name>zhanghan</name>
-            <email>han122655904@163.com</email>
-        </developer>
-        <developer>
-            <id>xiezhaodong</id>
-            <name>xiezhaodong</name>
-            <email>pursuer_xie@foxmail.com</email>
-        </developer>
-    </developers>
-    <organization>
-        <name>Meituan-Dianping Group</name>
-        <url>https://github.com/Meituan-Dianping</url>
-    </organization>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>

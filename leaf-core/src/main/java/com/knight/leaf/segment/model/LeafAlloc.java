@@ -47,4 +47,15 @@ public class LeafAlloc {
     public void setUpdateTime(String updateTime) {
         this.updateTime = updateTime;
     }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder("LeafAlloc{");
+        sb.append("key='").append(key).append('\'');
+        sb.append(", maxId=").append(maxId);
+        sb.append(", step=").append(step);
+        sb.append(", updateTime='").append(updateTime).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
 }
